@@ -45,7 +45,7 @@ Clone the Repository
 
 bash
 
-git clone https://github.com/your-org/comparative-transcription.git
+git clone [https://github.com/your-org/comparative-transcription.git](https://github.com/Thulasi3012/Keywords_API.git
 Create a virtual environment & install dependencies
 
 bash
